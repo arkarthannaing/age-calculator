@@ -1,0 +1,23 @@
+body {
+    background: #34495e;
+    overflow-x: hidden;
+}
+
+#main{
+    height: 100vh;
+}
+
+.title{
+    color : #2980b9;
+}
+
+.btn-custom{
+    background : #2ecc71;
+    color : #fff;
+    transition : all 1s;
+}
+
+.btn-custom:hover{
+    background: #27ae60;
+    color : #eee;
+}
